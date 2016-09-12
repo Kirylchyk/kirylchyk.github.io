@@ -7,15 +7,13 @@
 
 # Site settings
 title: Home page
-email: kirylchyk@hmail.com
+email: kirylchyk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This resource is designed to help to build up analytical reports in different spheres to foster effectiveness and reduce risks. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://analytics-in-use.com" # the base hostname & protocol for your site
+twitter_username: kirylchyk
+github_username:  kirylchyk
 
 # Build settings
 markdown: kramdown
