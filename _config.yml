@@ -8,8 +8,7 @@
 # Site settings
 title: Home page
 email: kirylchyk@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This resource is designed to help to build up analytical reports in different spheres to foster effectiveness and reduce risks. 
+description: > # this means to ignore newlines until "baseurl:"This resource is designed to help to build up analytical reports in different spheres to foster effectiveness and reduce risks. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://analytics-in-use.com" # the base hostname & protocol for your site
 twitter_username: kirylchyk
